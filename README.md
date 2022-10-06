@@ -20,7 +20,7 @@ Hey everyone! I'm Fredrick! I am a Full-Stack Software Engineer student in Irvin
                                                                                                                                
 ## ✨ Fun Facts
 
-💻 I enjoy coding and learning new stuff!
+💻 I enjoy coding and learning new things!
 
 ✈️ I love traveling, going on hikes, playing tennis, and trying new foods!
 
