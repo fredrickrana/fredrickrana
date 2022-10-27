@@ -1,6 +1,6 @@
 ## 🤓 About Me
 
-Hello everyone! I'm Fredrick! I am a Full-Stack Software Engineer in Irvine, California and I'm currently skilled in HTML5, CSS3, JavaScript(ES5/ES6), AJAX, APIs, React, Node, and PostgreSQL. I love learning new coding concepts and I'm excited to build more dynamic web applications!
+Hi everyone! I'm Fredrick! I am a Full-Stack Software Engineer in Irvine, California and I'm currently skilled in HTML5, CSS3, JavaScript(ES5/ES6), AJAX, APIs, React, Node, and PostgreSQL. I love learning new coding concepts and I'm excited to build more dynamic web applications!
 
 ## ⚡ Technologies
 
