@@ -1,6 +1,12 @@
-## 🤓 About Me
+![White Minimalist Profile LinkedIn Banner](https://user-images.githubusercontent.com/103611252/224171574-94ef7e5c-ad7c-41bc-b889-78bb91e96c31.png)
 
-Hi everyone! I'm Fredrick! I am a Full-Stack Software Engineer in Irvine, California and I'm currently skilled in HTML5, CSS3, JavaScript(ES5/ES6), AJAX, APIs, React, Node, and PostgreSQL. I love learning new coding concepts and I'm excited to build more dynamic web applications!
+## About Me
+
+### console.log('Hello, World!');
+### My name is Fredrick Rana, and I am a software developer. 
+
+I love the creativity that comes with programming, the ability to solve complex problems, and the fact that there is always something new to learn. 
+Today, as a software developer, I am driven by my passion for creating solutions that make a difference. I am constantly refining my skills, experimenting/learning new programming languages and techniques, and I enjoy collaborating with others to bring new ideas to life.
 
 ## ⚡ Technologies
 
